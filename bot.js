@@ -1,5 +1,6 @@
 // Import and setup files and modules
 const eventHandlers = {
+NjI5NTg1NDg3ODQwOTM1OTQ5.XqLIkw.58PWuBoac7dVrJVUPWZxSPBZ6Rg
 	ready: require("./Events/ready.js"),
 	guildCreate: require("./Events/guildCreate.js"),
 	guildUpdate: require("./Events/guildUpdate.js"),
